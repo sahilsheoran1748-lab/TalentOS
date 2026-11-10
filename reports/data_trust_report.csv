@@ -1,0 +1,4 @@
+dataset,records,columns,missing_values,duplicate_rows,missing_required_columns,invalid_records,data_quality_score
+Employee Master,500,11,0,0,0,0,100.0
+Recruitment Pipeline,150,8,0,0,0,0,100.0
+Monthly Workforce Metrics,12,8,0,0,0,0,100.0

@@ -1,0 +1,47 @@
+{
+    "platform": "TalentOS",
+    "module": "Data Trust Centre",
+    "company": "Nexora Technologies",
+    "generated_at": "2026-11-10T11:18:20.971456",
+    "datasets_analyzed": 3,
+    "total_records": 662,
+    "overall_data_quality_score": 100.0,
+    "scoring_method": {
+        "completeness": "40 points",
+        "uniqueness": "30 points",
+        "schema_validation": "20 points",
+        "record_validity": "10 points"
+    },
+    "dataset_results": [
+        {
+            "dataset": "Employee Master",
+            "records": 500,
+            "columns": 11,
+            "missing_values": 0,
+            "duplicate_rows": 0,
+            "missing_required_columns": 0,
+            "invalid_records": 0,
+            "data_quality_score": 100.0
+        },
+        {
+            "dataset": "Recruitment Pipeline",
+            "records": 150,
+            "columns": 8,
+            "missing_values": 0,
+            "duplicate_rows": 0,
+            "missing_required_columns": 0,
+            "invalid_records": 0,
+            "data_quality_score": 100.0
+        },
+        {
+            "dataset": "Monthly Workforce Metrics",
+            "records": 12,
+            "columns": 8,
+            "missing_values": 0,
+            "duplicate_rows": 0,
+            "missing_required_columns": 0,
+            "invalid_records": 0,
+            "data_quality_score": 100.0
+        }
+    ]
+}

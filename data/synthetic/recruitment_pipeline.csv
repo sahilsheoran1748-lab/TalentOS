@@ -1,0 +1,151 @@
+application_id,company,department,job_title,source,stage,days_in_pipeline,recruitment_cost_inr
+NXA0001,Nexora Technologies,Engineering,Software Engineer,Referral,Hired,28,10005
+NXA0002,Nexora Technologies,Sales,Sales Executive,Company Website,Applied,39,14408
+NXA0003,Nexora Technologies,Sales,Sales Manager,Company Website,Rejected,68,5102
+NXA0004,Nexora Technologies,Operations,Operations Analyst,Company Website,Assessment,3,12195
+NXA0005,Nexora Technologies,Human Resources,HR Manager,Campus,Rejected,16,17256
+NXA0006,Nexora Technologies,Finance,Accountant,Job Portal,Rejected,30,3826
+NXA0007,Nexora Technologies,Operations,Project Coordinator,Company Website,Assessment,64,16105
+NXA0008,Nexora Technologies,Finance,Finance Manager,Campus,Assessment,12,14275
+NXA0009,Nexora Technologies,Marketing,Marketing Analyst,Referral,Offer,7,17950
+NXA0010,Nexora Technologies,Marketing,Marketing Analyst,Referral,Offer,4,20034
+NXA0011,Nexora Technologies,Human Resources,HR Manager,Job Portal,Applied,2,14504
+NXA0012,Nexora Technologies,Operations,Operations Analyst,Job Portal,Applied,37,14057
+NXA0013,Nexora Technologies,Finance,Financial Analyst,Job Portal,Screening,58,20353
+NXA0014,Nexora Technologies,Sales,Sales Executive,Job Portal,Rejected,69,27656
+NXA0015,Nexora Technologies,Human Resources,HR Manager,Company Website,Rejected,71,26304
+NXA0016,Nexora Technologies,Engineering,Software Engineer,Job Portal,Hired,26,5831
+NXA0017,Nexora Technologies,Engineering,ML Engineer,Referral,Assessment,61,2471
+NXA0018,Nexora Technologies,Marketing,Marketing Analyst,Campus,Rejected,38,10843
+NXA0019,Nexora Technologies,Human Resources,HR Analyst,Campus,Screening,34,15417
+NXA0020,Nexora Technologies,Marketing,Marketing Manager,Referral,Hired,42,14231
+NXA0021,Nexora Technologies,Engineering,Software Engineer,Referral,Applied,24,14953
+NXA0022,Nexora Technologies,Finance,Finance Manager,Campus,Hired,6,13440
+NXA0023,Nexora Technologies,Marketing,Content Strategist,Referral,Assessment,31,18212
+NXA0024,Nexora Technologies,Human Resources,HR Manager,Company Website,Offer,64,16215
+NXA0025,Nexora Technologies,Finance,Finance Manager,Job Portal,Interview,3,2445
+NXA0026,Nexora Technologies,Human Resources,HR Analyst,Job Portal,Assessment,74,17136
+NXA0027,Nexora Technologies,Operations,Operations Manager,Company Website,Hired,34,9690
+NXA0028,Nexora Technologies,Finance,Accountant,Company Website,Offer,73,13515
+NXA0029,Nexora Technologies,Human Resources,HR Manager,Campus,Screening,73,13591
+NXA0030,Nexora Technologies,Operations,Project Coordinator,Job Portal,Rejected,14,18621
+NXA0031,Nexora Technologies,Engineering,Software Engineer,LinkedIn,Offer,45,22724
+NXA0032,Nexora Technologies,Human Resources,HR Analyst,Job Portal,Hired,66,4063
+NXA0033,Nexora Technologies,Finance,Financial Analyst,Campus,Applied,61,6368
+NXA0034,Nexora Technologies,Engineering,ML Engineer,Referral,Interview,48,9698
+NXA0035,Nexora Technologies,Marketing,Content Strategist,Company Website,Interview,1,10440
+NXA0036,Nexora Technologies,Sales,Sales Executive,LinkedIn,Offer,32,5824
+NXA0037,Nexora Technologies,Marketing,Marketing Manager,LinkedIn,Screening,28,22478
+NXA0038,Nexora Technologies,Engineering,ML Engineer,Company Website,Applied,64,4428
+NXA0039,Nexora Technologies,Engineering,ML Engineer,Referral,Assessment,51,19646
+NXA0040,Nexora Technologies,Sales,Sales Executive,Referral,Screening,60,16151
+NXA0041,Nexora Technologies,Engineering,ML Engineer,Company Website,Screening,70,23705
+NXA0042,Nexora Technologies,Operations,Operations Manager,Campus,Applied,45,10214
+NXA0043,Nexora Technologies,Finance,Financial Analyst,Company Website,Assessment,68,19789
+NXA0044,Nexora Technologies,Finance,Accountant,Referral,Screening,39,21484
+NXA0045,Nexora Technologies,Human Resources,HR Manager,Job Portal,Assessment,22,17523
+NXA0046,Nexora Technologies,Marketing,Marketing Analyst,Referral,Offer,24,12850
+NXA0047,Nexora Technologies,Operations,Operations Manager,Referral,Screening,69,18711
+NXA0048,Nexora Technologies,Marketing,Content Strategist,Company Website,Interview,52,26075
+NXA0049,Nexora Technologies,Engineering,ML Engineer,Campus,Applied,9,21461
+NXA0050,Nexora Technologies,Operations,Operations Manager,Job Portal,Rejected,24,8300
+NXA0051,Nexora Technologies,Operations,Operations Analyst,Referral,Assessment,39,9524
+NXA0052,Nexora Technologies,Marketing,Marketing Manager,Company Website,Assessment,5,8184
+NXA0053,Nexora Technologies,Operations,Operations Manager,Job Portal,Rejected,53,24187
+NXA0054,Nexora Technologies,Marketing,Content Strategist,Job Portal,Interview,66,7036
+NXA0055,Nexora Technologies,Operations,Project Coordinator,LinkedIn,Offer,74,18020
+NXA0056,Nexora Technologies,Finance,Finance Manager,Referral,Applied,19,21109
+NXA0057,Nexora Technologies,Finance,Financial Analyst,Job Portal,Applied,17,15037
+NXA0058,Nexora Technologies,Engineering,Data Scientist,Campus,Rejected,65,11071
+NXA0059,Nexora Technologies,Engineering,ML Engineer,Company Website,Hired,9,20701
+NXA0060,Nexora Technologies,Sales,Business Development Executive,LinkedIn,Interview,74,12910
+NXA0061,Nexora Technologies,Sales,Sales Executive,Job Portal,Screening,43,26633
+NXA0062,Nexora Technologies,Sales,Sales Manager,LinkedIn,Interview,63,8051
+NXA0063,Nexora Technologies,Sales,Sales Manager,Company Website,Hired,27,10027
+NXA0064,Nexora Technologies,Sales,Business Development Executive,Campus,Offer,49,24051
+NXA0065,Nexora Technologies,Human Resources,HR Analyst,Referral,Offer,48,6304
+NXA0066,Nexora Technologies,Marketing,Content Strategist,Campus,Hired,73,19686
+NXA0067,Nexora Technologies,Sales,Sales Executive,Company Website,Rejected,29,3493
+NXA0068,Nexora Technologies,Human Resources,HR Manager,Job Portal,Rejected,70,16882
+NXA0069,Nexora Technologies,Sales,Business Development Executive,LinkedIn,Offer,36,23926
+NXA0070,Nexora Technologies,Marketing,Content Strategist,Job Portal,Offer,43,8378
+NXA0071,Nexora Technologies,Human Resources,Talent Acquisition Specialist,Job Portal,Screening,65,29457
+NXA0072,Nexora Technologies,Sales,Sales Executive,Campus,Screening,33,26042
+NXA0073,Nexora Technologies,Sales,Sales Executive,LinkedIn,Interview,50,22009
+NXA0074,Nexora Technologies,Human Resources,HR Analyst,Job Portal,Screening,5,15618
+NXA0075,Nexora Technologies,Sales,Sales Executive,Company Website,Screening,26,2258
+NXA0076,Nexora Technologies,Engineering,Data Scientist,LinkedIn,Interview,43,2872
+NXA0077,Nexora Technologies,Sales,Sales Manager,Referral,Offer,60,3982
+NXA0078,Nexora Technologies,Human Resources,HR Analyst,Job Portal,Rejected,68,18300
+NXA0079,Nexora Technologies,Finance,Accountant,LinkedIn,Assessment,38,7831
+NXA0080,Nexora Technologies,Marketing,Marketing Manager,Company Website,Rejected,8,27498
+NXA0081,Nexora Technologies,Marketing,Marketing Analyst,Job Portal,Interview,60,6497
+NXA0082,Nexora Technologies,Human Resources,HR Analyst,LinkedIn,Interview,45,19726
+NXA0083,Nexora Technologies,Sales,Sales Executive,Company Website,Rejected,19,4886
+NXA0084,Nexora Technologies,Finance,Financial Analyst,Company Website,Hired,20,21705
+NXA0085,Nexora Technologies,Finance,Accountant,Job Portal,Offer,24,8259
+NXA0086,Nexora Technologies,Operations,Operations Analyst,Campus,Assessment,74,11889
+NXA0087,Nexora Technologies,Sales,Sales Manager,Company Website,Screening,39,20561
+NXA0088,Nexora Technologies,Human Resources,Talent Acquisition Specialist,Job Portal,Screening,70,3228
+NXA0089,Nexora Technologies,Sales,Sales Manager,Job Portal,Hired,51,20221
+NXA0090,Nexora Technologies,Operations,Project Coordinator,Campus,Interview,16,8578
+NXA0091,Nexora Technologies,Sales,Sales Manager,LinkedIn,Screening,72,22334
+NXA0092,Nexora Technologies,Marketing,Marketing Analyst,LinkedIn,Interview,64,16183
+NXA0093,Nexora Technologies,Marketing,Content Strategist,Referral,Offer,71,14248
+NXA0094,Nexora Technologies,Sales,Business Development Executive,Company Website,Hired,40,26615
+NXA0095,Nexora Technologies,Finance,Accountant,Company Website,Offer,25,19057
+NXA0096,Nexora Technologies,Marketing,Content Strategist,Referral,Interview,55,18576
+NXA0097,Nexora Technologies,Sales,Sales Executive,LinkedIn,Applied,63,25845
+NXA0098,Nexora Technologies,Engineering,Software Engineer,Job Portal,Assessment,23,19219
+NXA0099,Nexora Technologies,Human Resources,HR Analyst,Company Website,Rejected,57,7322
+NXA0100,Nexora Technologies,Sales,Business Development Executive,Campus,Hired,10,8740
+NXA0101,Nexora Technologies,Human Resources,HR Analyst,LinkedIn,Interview,42,13142
+NXA0102,Nexora Technologies,Finance,Financial Analyst,LinkedIn,Rejected,45,8430
+NXA0103,Nexora Technologies,Marketing,Marketing Manager,Campus,Screening,48,29446
+NXA0104,Nexora Technologies,Marketing,Marketing Analyst,Campus,Interview,37,17639
+NXA0105,Nexora Technologies,Marketing,Marketing Analyst,Referral,Hired,41,9691
+NXA0106,Nexora Technologies,Engineering,Data Scientist,Job Portal,Assessment,73,18873
+NXA0107,Nexora Technologies,Sales,Sales Executive,Referral,Screening,54,6513
+NXA0108,Nexora Technologies,Operations,Operations Analyst,Referral,Screening,16,27813
+NXA0109,Nexora Technologies,Human Resources,HR Manager,Campus,Offer,4,12009
+NXA0110,Nexora Technologies,Finance,Financial Analyst,Company Website,Assessment,28,10241
+NXA0111,Nexora Technologies,Finance,Accountant,Company Website,Assessment,70,16160
+NXA0112,Nexora Technologies,Sales,Business Development Executive,Job Portal,Screening,30,15663
+NXA0113,Nexora Technologies,Finance,Financial Analyst,LinkedIn,Interview,68,22084
+NXA0114,Nexora Technologies,Operations,Operations Analyst,Referral,Offer,33,13667
+NXA0115,Nexora Technologies,Finance,Financial Analyst,Campus,Rejected,6,13580
+NXA0116,Nexora Technologies,Sales,Business Development Executive,Campus,Interview,56,28246
+NXA0117,Nexora Technologies,Marketing,Marketing Analyst,Campus,Interview,2,23248
+NXA0118,Nexora Technologies,Operations,Operations Manager,Referral,Interview,9,29855
+NXA0119,Nexora Technologies,Engineering,Data Scientist,LinkedIn,Offer,67,20016
+NXA0120,Nexora Technologies,Sales,Business Development Executive,Campus,Rejected,18,17771
+NXA0121,Nexora Technologies,Marketing,Marketing Analyst,Job Portal,Applied,65,19203
+NXA0122,Nexora Technologies,Marketing,Marketing Manager,Company Website,Assessment,64,6611
+NXA0123,Nexora Technologies,Marketing,Marketing Analyst,Referral,Assessment,51,25427
+NXA0124,Nexora Technologies,Finance,Financial Analyst,Referral,Offer,56,23094
+NXA0125,Nexora Technologies,Finance,Finance Manager,LinkedIn,Applied,2,27938
+NXA0126,Nexora Technologies,Human Resources,HR Manager,Campus,Hired,71,3505
+NXA0127,Nexora Technologies,Finance,Accountant,Job Portal,Offer,42,10591
+NXA0128,Nexora Technologies,Engineering,Data Scientist,Company Website,Assessment,59,17471
+NXA0129,Nexora Technologies,Sales,Sales Executive,Job Portal,Assessment,10,7986
+NXA0130,Nexora Technologies,Marketing,Marketing Manager,Referral,Rejected,14,10390
+NXA0131,Nexora Technologies,Operations,Operations Analyst,Job Portal,Screening,25,15377
+NXA0132,Nexora Technologies,Finance,Finance Manager,Campus,Assessment,39,3550
+NXA0133,Nexora Technologies,Human Resources,HR Analyst,Campus,Screening,26,25597
+NXA0134,Nexora Technologies,Marketing,Content Strategist,LinkedIn,Assessment,42,10931
+NXA0135,Nexora Technologies,Marketing,Marketing Manager,Company Website,Interview,24,25378
+NXA0136,Nexora Technologies,Engineering,ML Engineer,Job Portal,Assessment,44,27040
+NXA0137,Nexora Technologies,Marketing,Marketing Analyst,LinkedIn,Offer,11,4462
+NXA0138,Nexora Technologies,Operations,Operations Manager,Job Portal,Screening,8,3757
+NXA0139,Nexora Technologies,Finance,Financial Analyst,Referral,Interview,39,18506
+NXA0140,Nexora Technologies,Human Resources,HR Manager,LinkedIn,Interview,73,29753
+NXA0141,Nexora Technologies,Finance,Finance Manager,Referral,Applied,65,13623
+NXA0142,Nexora Technologies,Sales,Sales Manager,Company Website,Hired,38,12258
+NXA0143,Nexora Technologies,Human Resources,Talent Acquisition Specialist,Company Website,Applied,66,11290
+NXA0144,Nexora Technologies,Sales,Business Development Executive,Campus,Offer,53,25441
+NXA0145,Nexora Technologies,Operations,Operations Analyst,Job Portal,Screening,66,3357
+NXA0146,Nexora Technologies,Human Resources,HR Analyst,Job Portal,Applied,2,16117
+NXA0147,Nexora Technologies,Operations,Operations Manager,Referral,Offer,41,12777
+NXA0148,Nexora Technologies,Sales,Sales Executive,Company Website,Offer,26,3520
+NXA0149,Nexora Technologies,Engineering,ML Engineer,Company Website,Applied,54,16853
+NXA0150,Nexora Technologies,Finance,Finance Manager,Company Website,Offer,56,19035
